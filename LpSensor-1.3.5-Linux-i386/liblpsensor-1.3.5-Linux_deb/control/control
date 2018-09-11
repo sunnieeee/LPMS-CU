@@ -1,0 +1,9 @@
+Package: liblpsensor
+Version: 1.3.5
+Section: devel
+Priority: optional
+Architecture: i386
+Installed-Size: 824
+Maintainer: Huei Ee YAP <yap@lp-research.com>
+Description: Library for communicating and interfacing with LP-Research sensors. (Build20160608)
+

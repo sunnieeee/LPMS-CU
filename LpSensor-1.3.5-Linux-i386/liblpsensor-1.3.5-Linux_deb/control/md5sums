@@ -1,0 +1,6 @@
+63844bbdc5d073f36eccacf2cd3050d7  usr/include/lpsensor/ImuData.h
+3ae6a35e42e35b3c43e4e4a94a3dce89  usr/include/lpsensor/LpmsSensorManagerI.h
+37a59af9ef586e2a62e306ce0b8f1ced  usr/include/lpsensor/DeviceListItem.h
+aa18baf76c5d7f41955c12339f4a2f82  usr/include/lpsensor/LpmsSensorI.h
+5c5476f1031ffde3ee9d8bb2a2a6d62e  usr/include/lpsensor/LpmsDefinitions.h
+21c2a7775755211a3ac9f7ad6be014ed  usr/lib/libLpSensor.so
